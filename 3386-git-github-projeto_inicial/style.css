@@ -50,9 +50,9 @@ body::before {
     top: 77%;
     left: 78%;
     transform: translate(-50%, -50%);
-    width: 400px; /* Define um tamanho fixo para a imagem */
-    height: auto; /* Mantém a proporção da imagem */
-    z-index: 0; /* Coloca a imagem atrás do conteúdo */
+    width: 400px;
+    height: auto; 
+    z-index: 0; 
 }
 
 .container__conteudo {
